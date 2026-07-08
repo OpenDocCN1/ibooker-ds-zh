@@ -1,6 +1,6 @@
 # 数据好奇心
 
-> 原文：[`zh.annas-archive.org/md5/4062cb8dfc00d8c5a99edbf1e60b3ce5`](https://zh.annas-archive.org/md5/4062cb8dfc00d8c5a99edbf1e60b3ce5)
+> 原文：[DATA CURIOUS : applying agile analytics for better business decisions](https://zh.annas-archive.gl/md5/4062cb8dfc00d8c5a99edbf1e60b3ce5)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

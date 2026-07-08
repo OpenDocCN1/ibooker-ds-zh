@@ -1,6 +1,6 @@
 # 实体解析实用指南
 
-> 原文：[`zh.annas-archive.org/md5/4e35ee51118670fc815bae773646f567`](https://zh.annas-archive.org/md5/4e35ee51118670fc815bae773646f567)
+> 原文：[Hands-On Entity Resolution: A Practical Guide to Data Matching With Python](https://zh.annas-archive.gl/md5/4e35ee51118670fc815bae773646f567)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

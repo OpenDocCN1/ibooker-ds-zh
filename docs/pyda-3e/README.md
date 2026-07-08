@@ -1,6 +1,6 @@
 # Python 数据分析（PYDA）第三版
 
-> 原文：[`wesmckinney.com/book/`](https://wesmckinney.com/book/)
+> 原文：[Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 >
 > 译者：[飞龙](https://github.com/wizardforcel)
 >

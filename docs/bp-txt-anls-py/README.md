@@ -1,6 +1,6 @@
 # Python 文本分析蓝图
 
-> 原文：[`zh.annas-archive.org/md5/c63f0fe6d74b904d41494495addce0ab`](https://zh.annas-archive.org/md5/c63f0fe6d74b904d41494495addce0ab)
+> 原文：[Blueprints for Text Analytics Using Python: Machine Learning Based Solutions for Common Real World (Nlp) Applications](https://zh.annas-archive.gl/md5/c63f0fe6d74b904d41494495addce0ab)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

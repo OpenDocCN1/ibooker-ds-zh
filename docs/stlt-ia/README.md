@@ -1,6 +1,6 @@
 # Streamlit 实战
 
-> 原文：[`zh.annas-archive.org/md5/628501c44d4af25fb31b493d413e4349`](https://zh.annas-archive.org/md5/628501c44d4af25fb31b493d413e4349)
+> 原文：[Streamlit in Action](https://zh.annas-archive.gl/md5/628501c44d4af25fb31b493d413e4349)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

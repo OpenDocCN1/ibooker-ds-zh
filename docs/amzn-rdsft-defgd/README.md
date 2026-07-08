@@ -1,6 +1,6 @@
 # 亚马孙 Redshift 权威指南
 
-> 原文：[`zh.annas-archive.org/md5/c21b4d7a66ecf910d571f88f5162d065`](https://zh.annas-archive.org/md5/c21b4d7a66ecf910d571f88f5162d065)
+> 原文：[Artificial Intelligence for IoT Cookbook : Over 70 Recipes for Building AI Solutions for Smart Homes, Industrial IoT, and Smart Cities](https://zh.annas-archive.gl/md5/c21b4d7a66ecf910d571f88f5162d065)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 

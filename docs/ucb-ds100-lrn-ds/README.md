@@ -1,6 +1,6 @@
 # UCB Data100：数据科学学习指南
 
-> 原文：[`zh.annas-archive.org/md5/9950f82165bee426119f99afc3ab612d`](https://zh.annas-archive.org/md5/9950f82165bee426119f99afc3ab612d)
+> 原文：[Learning Data Science: Data Wrangling, Exploration, Visualization, and Modeling with Python (Final)](https://zh.annas-archive.gl/md5/9950f82165bee426119f99afc3ab612d)
 > 
 > 译者：[飞龙](https://github.com/wizardforcel)
 > 
